@@ -10,12 +10,12 @@
   "dependencies": {
     "cookie-parser": "~1.4.7",
     "debug": "~2.6.9",
-    "express": "~4.21.2",
+    "express": "~4.22.1",
     "http-errors": "~1.7.3",
     "jade": "~1.11.0",
     "morgan": "~1.9.1",
     "snyk": "^1.1064.0",
-    "twilio": "^3.40.0"
+    "twilio": "^3.84.1"
   },
   "snyk": true
 }
